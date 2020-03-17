@@ -7,4 +7,4 @@
 @xset s noblank
 
 @sed -i 's/"exited_cleanly": false/"exited_cleanly": true/' ~/.config/chromium/Default/Preferences
-@chromium-browser --noerrdialogs --app=https://www.carwow.co.uk --start-fullscreen
+@chromium-browser --noerrdialogs https://clvr.cloud https://www.lavoz.com.ar/ https://www.lanacion.com.ar https://www.cadena3.com https://www.eltribuno.com/salta https://www.nzherald.co.nz/ https://www.stuff.co.nz https://www.reddit.com/search?q=kubernetes https://www.reddit.com/search?q=servicemesh  --start-fullscreen
